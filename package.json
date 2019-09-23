@@ -1,0 +1,19 @@
+{
+  "name": "@laomao800/parse-size-with-unit",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/laomao800/parse-size-with-unit",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
