@@ -1,4 +1,4 @@
-export declare const parseSize: (
+declare const parseSize: (
   /** Input size value */
   value: any,
 
@@ -10,3 +10,5 @@ export declare const parseSize: (
    */
   defaultUnit?: string
 ) => string | null
+
+export = parseSize
