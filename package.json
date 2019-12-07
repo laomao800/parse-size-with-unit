@@ -1,6 +1,6 @@
 {
   "name": "@laomao800/parse-size-with-unit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -13,6 +13,7 @@
   "files": [
     "index.js"
   ],
+  "types": "types.d.ts",
   "devDependencies": {
     "jest": "^24.9.0"
   }
